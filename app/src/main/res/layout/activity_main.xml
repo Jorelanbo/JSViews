@@ -341,6 +341,16 @@
             android:paddingRight="10dp"
             android:paddingBottom="20dp"
             app:max_select="2"/>
+        
+        <com.js.views.Text.InputBox
+            android:id="@+id/inputBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            app:label_text="当前地址"
+            app:label_text_size="8dp"
+            app:label_text_color="@android:color/holo_red_light"
+            app:hint="请输入内容"/>
 
     </LinearLayout>
 

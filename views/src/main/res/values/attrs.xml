@@ -22,4 +22,15 @@
         </attr>
         <attr name="middle_page_cover" format="boolean"/>
     </declare-styleable>
+
+    <declare-styleable name="InputBox">
+        <attr name="label_text_size" format="dimension"/>
+        <attr name="label_text_color" format="color"/>
+        <attr name="label_text" format="string"/>
+        <attr name="text_size" format="dimension"/>
+        <attr name="text_color" format="color"/>
+        <attr name="text" format="string"/>
+        <attr name="hint" format="string"/>
+        <attr name="input_background" format="reference"/>
+    </declare-styleable>
 </resources>

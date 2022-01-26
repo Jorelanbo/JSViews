@@ -1,6 +1,9 @@
 package com.js.views;
 
 // Created by JS on 2021/7/20.
+/**
+ * http://blog.csdn.net/lmj623565791/article/details/38339817
+ */
 
 import android.content.Context;
 import android.util.AttributeSet;
